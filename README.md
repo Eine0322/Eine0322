@@ -1,15 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5EFEB,50:567C8D,100:2F4156&height=300&section=header&text=Hi%20there,%20I'm%20Eine&fontSize=90&fontColor=FFFFFF" />
-
-- Frontend Developer
-- Attending Department of Computer Infomation Engineering at the Artificial Intelligence University in KW Univ.
+<h3>Frontend Developer</h3>
+<h4>Attending Department of Computer Infomation Engineering at the Artificial Intelligence University in KW Univ.</h4>
 
 <br/>
 
-
   <div>
-  <h3>⚙️ Tech Stack</h3>
+  <h2>⚙️ Tech Stack</h2>
   <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -22,7 +20,7 @@
   </div>
 
 <div>
-  <h3>📎 etc.</h3>
+  <h2>📎 etc.</h2>
   <div>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
