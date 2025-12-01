@@ -40,20 +40,5 @@
 | 2025 | [Feed Up](https://feedup.cloud) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Frontend | - |
 | 2025 | [과잉zero](https://gwaing-zero.vercel.app/) | LLM 및 통계 기반 과잉진료 분석 시스템 | Frontend, Design | 멋사univ. Ganzithon 대상 |
 
-<!--
-<div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eine0322&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Eine0322&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Eine0322&show_icons=true" />
-</picture>
-</div>
--->
 
 </div>
