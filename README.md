@@ -37,7 +37,7 @@
 
 | Year | Service Name | Description | Role | Award |
 |:----:|:-------------|-------------|:----:|:-----:|
-| 2025 | [Feed Up](https://feedup.cloud) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Frontend | - |
+| 2025 | [Feed Up]([https://feedup.cloud](https://team3-fe-pi.vercel.app/)) | AI를 활용한 지역 상생형 SNS 프로모션 플랫폼 | Frontend | - |
 | 2025 | [과잉zero](https://gwaing-zero.vercel.app/) | LLM 및 통계 기반 과잉진료 분석 시스템 | Frontend, Design | 멋사univ. Ganzithon 대상 |
 
 
